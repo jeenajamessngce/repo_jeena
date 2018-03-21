@@ -4,9 +4,9 @@ who are you?
 Hai
 How are you
 hello
-
+<<<<<<< HEAD
 hello
-
+=======
 
 hello its me....
 561616165
@@ -16,4 +16,4 @@ hello its me....
 aa
 bbb
 cccc
-
+>>>>>>> 5fd8cba682b08a089597738f4b2e6ad4f98f9dba
